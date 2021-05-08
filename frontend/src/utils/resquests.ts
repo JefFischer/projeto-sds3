@@ -1,1 +1,1 @@
-export const BASE_URL = 'http://localhost:80800';
+export const BASE_URL = 'https://sds3-test.herokuapp.com';
